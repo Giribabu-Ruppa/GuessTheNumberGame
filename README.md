@@ -1,10 +1,3 @@
-
-
-
-Here’s a sample **README.md** file for a "Guess the Number" Python project on GitHub:
-
----
-
 # **Guess the Number** 🎲  
 
 A simple Python game where the player tries to guess a randomly chosen number within a specified range. This project is a fun way to demonstrate Python programming basics like loops, conditionals, and random number generation.
