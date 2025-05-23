@@ -1,3 +1,4 @@
+"Guess the Number" is a fun, interactive command-line game where players try to guess a randomly generated number within a given range. Built using, it demonstrates key programming concepts like loops, conditionals, and user input. This simple project is ideal for beginners to practice logic and control flow in a real-world scenario.
 # **Guess the Number** 🎲  
 
 A simple Python game where the player tries to guess a randomly chosen number within a specified range. This project is a fun way to demonstrate Python programming basics like loops, conditionals, and random number generation.
